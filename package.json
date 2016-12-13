@@ -1,0 +1,17 @@
+{
+  "name": "next_demo",
+  "version": "0.0.1",
+  "description": "A demo application for Next.js",
+  "main": "index.js",
+  "scripts": {
+    "develop": "next"
+  },
+  "author": "Naoya Yamashita",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^1.2.3",
+    "react-redux": "^4.4.6",
+    "redux": "^3.6.0",
+    "redux-act": "^1.1.0"
+  }
+}
