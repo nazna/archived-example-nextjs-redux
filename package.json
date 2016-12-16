@@ -4,7 +4,9 @@
   "description": "A demo application for Next.js",
   "main": "index.js",
   "scripts": {
-    "develop": "next"
+    "develop": "next",
+    "build": "next build",
+    "start": "next start"
   },
   "author": "Naoya Yamashita",
   "license": "MIT",
