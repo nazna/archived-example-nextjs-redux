@@ -17,4 +17,10 @@ npm run develop
 now
 ```
 
+## Blog
+
+[ブログに記事を書きました。](http://naoya3e.hatenablog.com/entry/next_demo)
+
+---
+
 Thanks a lot, Next.js
