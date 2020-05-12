@@ -1,6 +1,6 @@
-# Next.js Demo Application
+# example-nextjs-redux
 
-A demo application for Next.js
+A demo application for Next.js with Redux
 
 This demo is running on Now, [DEMO](https://nextdemo-akadxjlpwh.now.sh/)
 
@@ -16,10 +16,6 @@ npm run develop
 ```sh
 now
 ```
-
-## Blog
-
-[ブログに記事を書きました。](http://naoya3e.hatenablog.com/entry/next_demo)
 
 ---
 
