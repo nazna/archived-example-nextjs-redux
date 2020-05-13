@@ -2,8 +2,6 @@
 
 A demo application for Next.js with Redux
 
-This demo is running on Now, [DEMO](https://nextdemo-akadxjlpwh.now.sh/)
-
 ## Develop
 
 ```sh
