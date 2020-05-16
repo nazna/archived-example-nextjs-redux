@@ -1,6 +1,6 @@
 # example-nextjs-redux
 
-A demo application for Next.js with Redux
+> A example application for Next.js with Redux
 
 ## Develop
 
